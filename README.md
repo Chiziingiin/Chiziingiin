@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Chiziingiin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Chiziingiin/Chiziingiin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Chiziingiin, A middle school student
+- 👀 I’m interested in Front-end Technology
+- 🌱 I’m currently learning Vue.js and PHP
+- 📫 My email: cfzxycn@163.com or chiziingiin@126.com
