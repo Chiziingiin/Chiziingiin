@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Chiziingiin, A middle school student
 - 👀 I’m interested in Front-end Technology
 - 🌱 I’m currently learning Vue.js and PHP
-- 📫 My email: cfzxycn@163.com or chiziingiin@126.com
+- 📫 我的邮箱：cfzxycn@163.com 或 chiziingiin@126.com
+- 目前开发的项目：赤子英金网站项目
